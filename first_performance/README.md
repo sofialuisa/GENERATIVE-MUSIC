@@ -1,5 +1,5 @@
 ## La ilusión de los mapas / Generative Music (performance #1)
-![Screenshot](visuals_performance.jpg)
+![visuals](visuals_performance.jpg)
 
 Pinochet’s dictorship in Chile left a total of 40.000 victims, from which 3000 where detained and then never found again. There still no certainty to what happened to all this people. It is assumed that they are dead, but there has been no information on the whereabouts of their remains. Official entities have up to this date not release information on what exactly happened to these people, but a few ex-officials involved with the tortures and killings have given out some leads to what they did to them and how they got rid of the bodies. It has been said that the bodies were thrown to the open ocean with train reals attached to them so that they would sink, and also that they were torn apart and spread around the Atacaman dessert. The chilean coast messeaures 6435 km ( 3998 mi) long and the chilean sea territory spreads over more than 3 million km²  (1.8 million mi²). The Atacaman dessert, which is the driest dessert in the world, has an area of 105.000 km² (65,000 mi²). Besides how impossible big these places are, relatives of the victim are still today undertaking selg-managed tracking operations with the hope that they’ll find some hint of what happened to their love ones. 
 
