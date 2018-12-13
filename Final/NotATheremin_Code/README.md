@@ -1,2 +1,3 @@
-# invisible_theremin
-Interactive and experimental project
+# This is not a Theremin
+
+Interactive and experimental music project
