@@ -1,6 +1,6 @@
-//Invisible Theremin
+//This is not a Theremin
 //Hand tracking and OSC output
-//Dec, 2018. Guillermo Montecinos
+//Dec, 2018. Guillermo Montecinos & Sofía Suazo
 //based on Dan Shiffman example: https://www.youtube.com/watch?v=Kr4s5sLoROY&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf&index=4
 //based on github.com/igoumeninja/1047694
 
