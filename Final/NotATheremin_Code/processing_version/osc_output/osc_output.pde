@@ -1,6 +1,6 @@
-//osc message sending for Invisible Theremin
+//osc message sending for This is not a Theremin
 //based on github.com/igoumeninja/1047694
-//Guillermo Montecinos
+//Guillermo Montecinos & Sofía Suazo
 // Dec 2018
 
 import oscP5.*;
