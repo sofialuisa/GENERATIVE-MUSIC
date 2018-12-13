@@ -1,5 +1,5 @@
-// by Guillermo guillemontecinos
-// for the Invisible Theremin
+// by Guillermo guillemontecinos & Sofía Suazo
+// for This is not a Theremin
 // based on ml5.js example
 // Copyright (c) 2018 ml5
 //
