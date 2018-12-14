@@ -1,4 +1,4 @@
-#This is not a theremin
+## This is not a theremin
 by Sofía Suazo & Guillermo Montecinos.
 
 Here is the code for my Generative Music and Neural Aesthetics class final. 
